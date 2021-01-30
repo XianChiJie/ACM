@@ -10,8 +10,6 @@
 
 在一行中输出短句“Hello World!”。
 
-
-
 ```c++
 #include<iostream>
 using namespace std;
